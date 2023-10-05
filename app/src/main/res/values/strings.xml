@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ProjectKelasB</string>
+    <string name="nama">Iqbal1</string>
+    <string name="car">Formula 1</string>
+    <string name="button">MATCH_PARENT</string>
+    <string name="teks">select your motorcycles</string>
 </resources>
